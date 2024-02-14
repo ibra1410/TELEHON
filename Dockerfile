@@ -1,6 +1,6 @@
 FROM thejmthon/jmub:slim-buster
 
-RUN git clone https://github.com/SOURCE-FLASH/WWWL5.git /root/WWWL5
+RUN git clone https://github.com/ibra1410/userbot.git /root/WWWL5
 
 WORKDIR /root/WWWL5
 
